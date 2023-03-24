@@ -1,2 +1,4 @@
-# progen
-ProGen - A ChatGPT Alternative
+
+# ProGen - ChatGPT Alternative
+
+Coming soon ...
