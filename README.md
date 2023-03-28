@@ -1,5 +1,7 @@
 # ProGen - a ChatGPT Alternative
 
+**TOO MUCH REPETITIVE CODE, REFACTORING SOON**
+
 Progen - a ChatGPT Alternative
 ## Demo
 
